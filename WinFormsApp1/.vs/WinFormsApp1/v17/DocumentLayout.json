@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vsdua\\OneDrive\\\u00C1rea de Trabalho\\Dev\\Alura-CS-Form\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B1A382-644F-4759-95A2-65E4E375774E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\vsdua\\onedrive\\\u00E1rea de trabalho\\dev\\alura-cs-form\\winformsapp1\\winformsapp1\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1B1A382-644F-4759-95A2-65E4E375774E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B1A382-644F-4759-95A2-65E4E375774E}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\vsdua\\onedrive\\\u00E1rea de trabalho\\dev\\alura-cs-form\\winformsapp1\\winformsapp1\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B1A382-644F-4759-95A2-65E4E375774E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "C:\\Users\\vsdua\\OneDrive\\\u00C1rea de Trabalho\\Dev\\Alura-CS-Form\\WinFormsApp1\\WinFormsApp1\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\HelloWorld.cs",
+              "ToolTip": "C:\\Users\\vsdua\\OneDrive\\\u00C1rea de Trabalho\\Dev\\Alura-CS-Form\\WinFormsApp1\\WinFormsApp1\\HelloWorld.cs",
+              "RelativeToolTip": "WinFormsApp1\\HelloWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:33:03.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vsdua\\OneDrive\\\u00C1rea de Trabalho\\Dev\\Alura-CS-Form\\WinFormsApp1\\WinFormsApp1\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\HelloWorld.cs",
+              "ToolTip": "C:\\Users\\vsdua\\OneDrive\\\u00C1rea de Trabalho\\Dev\\Alura-CS-Form\\WinFormsApp1\\WinFormsApp1\\HelloWorld.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\HelloWorld.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:29:53.395Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

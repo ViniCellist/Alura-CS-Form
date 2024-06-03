@@ -1,0 +1,17 @@
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.HelloWorld.resources
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-CS-Form\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
